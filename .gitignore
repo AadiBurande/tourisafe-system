@@ -1,0 +1,14 @@
+# Ignore Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.exe
+
+# Ignore Environment Variables (Security)
+.env
+.DS_Store
+
+# Ignore Build Outputs
+.next/
+dist/
+blockchain.json
