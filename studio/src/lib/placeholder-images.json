@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image-1",
+      "description": "A smiling tourist showing a QR code on their phone at an airport.",
+      "imageUrl": "https://picsum.photos/seed/travel1/600/450",
+      "imageHint": "travel tourist"
+    }
+  ]
+}
