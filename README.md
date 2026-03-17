@@ -8,6 +8,7 @@ This is a comprehensive digital ecosystem for tourist safety in the North Easter
 - **`tourisafe-ai-geo/`** (Python): AI Anomaly Detection & Geo-fencing.
 - **`studio/`** (Node.js/Next.js): Frontend Dashboard for tourists and authorities.
 
+
 ---
 
 ## 🚀 Quick Start Guide
